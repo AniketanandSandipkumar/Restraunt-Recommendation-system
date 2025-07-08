@@ -18,7 +18,7 @@ with st.sidebar:
 # Load dataset (Replace with actual loading method)
 @st.cache_data
 def load_data():
-    df = pd.read_csv("Dataset .csv")  # Replace with actual dataset path
+    df = pd.read_csv("Dataset.csv")  # Replace with actual dataset path
     df['Restaurant Name'] = df['Restaurant Name'].str.strip().str.lower()
     return df
 
