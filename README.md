@@ -149,4 +149,5 @@ Pull requests and suggestions are welcome. For major changes, please open an iss
 -Author: Aniketanand Sandipkumar<br>
 📧 [Email-Id](aniketanand2712@gmail.com)<br>
 🔗 [LinkedIn](www.linkedin.com/in/aniketanand-sandipkumar-8475ab258)
+[App link](https://restraunt-recommendation-system-qpuqi3rhwpv8appr2tgxrd.streamlit.app)
 
